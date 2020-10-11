@@ -117,5 +117,9 @@ Name: [Muhammad Iqbal R](https://github.com/miqbalrr) <br/>
 Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
+Name: [Khushi Prasad](https://github.com/khushipr) <br/>
+Place: India <br/>
+About: Student <br/>
+
 
 
